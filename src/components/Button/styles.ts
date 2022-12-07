@@ -2,12 +2,13 @@ import styled from 'styled-components';
 
 
 export const ButtonContainer = styled.button`
-    width: 100%;
+    margin-left: 2.5rem;
+    width: 80%;
     height: 42px;
-    background-color: #81259D;
+    background-color: #E4105D;
     color: #FFF;
 
-    border: 1px solid #81259D;
+    border: 1px solid #E4105D;
     border-radius: 21px;
 
     &:hover {
